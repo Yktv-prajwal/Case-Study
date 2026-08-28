@@ -37,8 +37,5 @@ This repository contains a collection of case studies, practical exercises, and 
 ## 🌱 Learning Goals
 This repository documents my progress as a Data Science and Data Analytics learner, showcasing my hands-on experience and continuous improvement in data-driven problem solving.
 
-## ⭐ Feel free to explore, provide feedback, and follow my learning journey!
 
----
-**Author:** Prajwal Kumbhar
 
