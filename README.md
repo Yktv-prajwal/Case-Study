@@ -3,8 +3,6 @@
 
 # 📚 Data Science & Data Analytics Case Studies
 
-Welcome to my DSDA Case Study Repository! 🚀
-
 This repository contains a collection of case studies, practical exercises, and projects completed during my Data Science and Data Analytics learning journey. The goal is to apply theoretical concepts to real-world datasets and develop problem-solving skills using Python and modern data analysis tools.
 
 ## 🎯 Objectives
