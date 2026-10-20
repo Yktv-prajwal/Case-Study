@@ -25,7 +25,7 @@ This repository contains a collection of case studies, practical exercises, and 
 
 ## 📂 Repository Contents
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
 - Statistical Analysis
 - Data Visualization
 - Machine Learning
