@@ -32,7 +32,7 @@ This repository contains a collection of case studies, practical exercises, and 
 - Business Case Studies
 - Practice Datasets
 
-## 🌱 Learning Goals
+##🌱 Learning Goals
 This repository documents my progress as a Data Science and Data Analytics learner, showcasing my hands-on experience and continuous improvement in data-driven problem solving.
 
 
